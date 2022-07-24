@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Beats by Dr. Dre Studio (Orange)",
+        "price": 33,
+        "quantity": 39,
+        "category": "watch",
+        "img": "https://i.ibb.co/myCF7Xv/img1.jpg"
+    },
+    {
+        "name": "Microsoft Xbox One S Blue Grey",
+        "price": 52,
+        "quantity": 29,
+        "category": "watch",
+        "img": "https://i.ibb.co/HN1ds9T/img2.jpg"
+    },
+    {
+        "name": "Sam Sung Galaxy Note 10 Lite",
+        "price": 44,
+        "quantity": 45,
+        "category": "headphone",
+        "img": "https://i.ibb.co/hFDtwds/img3.jpg"
+    },
+    {
+        "name": "Samsung Galaxy M21",
+        "price": 149,
+        "quantity": 29,
+        "category": "speaker",
+        "img": "https://i.ibb.co/2gLJQM4/img4.jpg"
+    },
+    {
+        "name": "Samsung Galaxy V21",
+        "price": 23,
+        "quantity": 21,
+        "category": "phone",
+        "img": "https://i.ibb.co/XSPThXY/img5.jpg"
+    },
+    {
+        "name": "Corsair HS35 Headphones(Red)",
+        "price": 69,
+        "quantity": 19,
+        "category": "headphone",
+        "img": "https://i.ibb.co/MZZz3W5/img6.jpg"
+    }
+]
